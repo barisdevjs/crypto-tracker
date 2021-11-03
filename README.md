@@ -2,10 +2,10 @@
 You will see live prices of the chosen currencies
 
 In this project :
-##### Coingecko API
-##### React useState, useEffect Hooks
-##### axios
-##### css flex-box 
+#### Coingecko API
+#### React useState, useEffect Hooks
+#### axios
+#### css flex-box 
 is used.
 
 
