@@ -10,6 +10,7 @@
 
 # production
 /build
+/node-js-getting-started
 
 # misc
 .DS_Store
