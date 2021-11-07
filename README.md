@@ -1,8 +1,8 @@
 # This is a crypto tracker with a CoinGecko API
 You will see live prices of the chosen currencies
----
-## Live demo 
-[Demo](https://binance1111.herokuapp.com/)
+
+[ Live Demo](https://binance1111.herokuapp.com/)
+
 ---
 
 In this project :
