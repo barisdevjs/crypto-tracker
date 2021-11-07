@@ -2,7 +2,7 @@
 You will see live prices of the chosen currencies
 ---
 ## Live demo 
-(https://binance1111.herokuapp.com/)
+[Demo](https://binance1111.herokuapp.com/)
 ---
 
 In this project :
