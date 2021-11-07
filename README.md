@@ -1,7 +1,10 @@
 # This is a crypto tracker with a CoinGecko API
 You will see live prices of the chosen currencies
+---
 ## Live demo 
-[https://binance1111.herokuapp.com/]
+(https://binance1111.herokuapp.com/)
+---
+
 In this project :
 #### Coingecko API
 #### React useState, useEffect Hooks
