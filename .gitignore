@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/build
 /node-js-getting-started
 /.pnp
 .pnp.js
