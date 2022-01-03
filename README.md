@@ -1,9 +1,10 @@
 # This is a crypto tracker with a CoinGecko API
-You will see live prices of the chosen currencies
-
-[ Live Demo](https://binance1111.herokuapp.com/)
 
 ---
+
+## Below you will see the page of a game
+
+![alt text](https://github.com/barisdevjs/crypto-tracker/blob/main/crypto.jpg)
 
 In this project :
 #### Coingecko API
