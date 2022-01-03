@@ -50,19 +50,19 @@
   
   .coin-price {
     width: 70px;
+    margin-right: 40px;
     
   }
   
   .coin-volume {
-    width: 100%;
-    margin-left: 100px;
+    width: 90%;
     text-align:center;
   }
+  
   .coin-last-update {
-      width: 100%;
-      margin-left: none;
-      margin-right: 100px;
-
+      width: 100px;
+      margin-right: 150px;
+      text-align: center;
   }
   
   .coin-percent {
